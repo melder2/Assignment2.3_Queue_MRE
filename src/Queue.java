@@ -2,7 +2,7 @@
  * 
  * @author Michael Elder
  * Assignment 2.3 Implementing a Queue
- * Queue class 
+ * Queue class creates an enqueue method and a dequeue method
  */
 public class Queue <T> {
 	
